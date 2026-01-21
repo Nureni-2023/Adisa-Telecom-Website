@@ -1,0 +1,135 @@
+*{
+				padding: 0;
+				margin: 0;
+				box-sizing: border-box;
+}
+
+
+body{background-color:#e6e6e6;
+	position: relative;			
+}
+
+
+section{
+				background-color:#ffffff; 
+margin-top: 22px;
+margin-right: 18px;
+margin-left: 18px;
+/*padding-bottom: 40px;
+position: relative;*/
+margin-bottom: 20px;
+height: 1100px;
+	
+			
+}
+
+
+.logo{
+margin-left:41px;
+   
+}			
+
+.create{
+	
+	font-size: 30px;
+  color: green;
+  position: absolute;
+  top: 150px;
+  left: 85px;
+}
+
+.form{
+	position: absolute;	
+	top: 200px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.name{
+color: green;
+margin-bottom: 5px;
+font-weight: bold;				
+}
+
+#name{
+	margin-bottom: 15px;	
+	height: 35px;	
+	width: 300px;	
+   border: 2px solid green;
+   border-radius: 7px;
+   
+}
+
+
+
+.rule{
+				color: green;
+}
+
+
+.name1{
+color: green;
+margin-bottom: 5px;
+font-weight: bold;				
+}
+
+
+#name1{
+	
+	height: 35px;	
+	width: 300px;	
+   border: 2px solid green;
+   border-radius: 7px;
+   
+}
+	
+	
+.text{
+				margin-bottom: 15px;
+}	
+
+.terms{
+				margin-top: 18px;
+				
+}
+
+.term{
+				margin-top: 10px;
+				text-decoration: none;
+				color: red;
+				font-weight: bolder;
+}
+
+
+button{
+		height: 50px;		
+		width: 100px; 
+		margin-top: 30px;
+		font-weight: bold;
+		background-color: green;
+		color: #fff;
+		border-radius:15px;
+}		
+.signup{
+				text-decoration: none;
+				color: #ffffff;
+}		
+
+.signin{
+				margin-left: 60px;
+				margin-top: 30px;
+}
+
+
+
+.msg{
+				font-weight: bold;
+				color: green;
+				
+}					
+
+.link{
+				text-decoration: none;
+				color: red;
+				font-weight: bold;
+}					      
